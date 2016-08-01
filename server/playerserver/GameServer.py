@@ -34,9 +34,8 @@ class GameServer:
     def perm(self, num):
         pass
 
-    def __player_handler(self, player):
-        print player.pid
-        pass
+    # def __player_handler(self, player):
+
 
     #
     # @gen.coroutine
